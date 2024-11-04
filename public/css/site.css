@@ -106,3 +106,22 @@ h3 {
     background-color: #f2dede;
     border-color: #ebccd1;
 }
+
+.img-content {
+    padding: 10px 0px;
+}
+
+.arrow-img {
+    width: 60px;
+}
+
+.world-img {
+    width: 47px;
+}
+.ship-img {
+    width: 50px;
+}
+.searching-text {
+    color: #a9a9a9;
+    font-style: italic;
+}
